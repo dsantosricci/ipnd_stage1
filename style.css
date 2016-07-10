@@ -1,0 +1,68 @@
+/* This is a CSS comment.*/
+
+.description{
+    color : #7C8B88;
+    max-width: 1000000px;
+    padding: 20px;
+    font-family: helvetica;
+    font-size: 24px;
+    text-align: left;
+    font: comic;
+}
+
+.h1{
+    background-size: 340px;
+    color: red;
+    font: verdana;
+    text-align: center;
+}
+
+.h2{
+    lighting-color: red;
+    text-align: center;
+}
+
+
+
+.h3{
+    background-color: lightblue;
+    padding: 0px;
+    color: blue;
+    text-align: center;
+    color: black;
+    font-size: 22px;
+}
+
+.title{
+    background-color: #33BEBE;
+    color: white;
+    font-weight: normal;
+    font-family: helvetica
+}
+
+
+.image{
+    height: 100px;
+    border-radius: 225px;
+    text-align: center;
+    object-position: center;
+    position: center;
+    margin: auto;
+    display: block;
+    align-content: center;
+}
+
+
+*{
+   outline: 1px solid blue !important;
+   margin: 1px;
+   border: blue solid 2px;
+}
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+
+
