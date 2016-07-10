@@ -15,7 +15,6 @@
     color: red;
     font: verdana;
     text-align: center;
-    white-space: 5px;
 }
 
 .h2{
@@ -55,7 +54,7 @@
 
 
 *{
-   margin: 1px;
+   margin: 10px;
 }
 
 *{
